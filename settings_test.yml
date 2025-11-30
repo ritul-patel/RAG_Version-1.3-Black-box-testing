@@ -1,0 +1,7 @@
+version: 1
+settings:
+  mode: production
+  retries: 3
+  features:
+    - logging
+    - analytics
